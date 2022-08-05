@@ -2,7 +2,7 @@
 
 /**
  * binary_tree_postorder - in-order traversal right, left, root
- * @tree: root node 
+ * @tree: root node
  * @func: function pointer for each node
  */
 void binary_tree_postorder(const binary_tree_t *tree, void (*func)(int))
