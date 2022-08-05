@@ -2,7 +2,7 @@
 /**
  * binary_tree_size - finds size of tree
  * @tree: root node
- * Return: size 
+ * Return: size
  */
 
 size_t binary_tree_size(const binary_tree_t *tree)
